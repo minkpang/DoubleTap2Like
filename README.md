@@ -22,7 +22,8 @@
 
 ## 세부 설명
 
-<img src="/Users/pang/Library/Application Support/typora-user-images/image-20220127230035310.png" alt="image-20220127230035310" style="zoom: 50%;" />
+![image-20220127230035310](https://user-images.githubusercontent.com/50613287/153334110-f977e30f-bf59-4348-89eb-935c2de39a24.png)
+
 
 - https://picsum.photos/ 에서 제공되는 List Images API 를 사용하여 이미지 목록을 구현하였습니다.
 - 확장 가능한 설계를 위하여 MVVM 패턴을 적용하여 개발을 진행하였습니다.
